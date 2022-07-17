@@ -1,12 +1,12 @@
 .header {
   width: 200px;
-  background-color: #00cc99;
+  background-color: #919191;
   padding: 50px; }
 
 .footer {
   width: 200px;
   padding: 50px;
-  background-color: #00cc99; }
+  background-color: #dadada; }
 
 .box {
   width: 200px;
@@ -20,6 +20,9 @@
   transition: all 0.5s; }
   .box:hover {
     width: 200px;
-    background-color: #00cc99; }
+    background-color: #212222; }
+
+img {
+  width: 200px; }
 
 /*# sourceMappingURL=all.css.map */
